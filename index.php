@@ -1,5 +1,5 @@
 <?php
-// Первое задание:
+// Первое задание :
 // $userName = readline("Как вас зовут?\n");
 // $userAge = readline("Сколько вам лет?\n");
 // echo "Вас зовут $userName. Вам $userAge лет";
